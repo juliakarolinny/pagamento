@@ -2,6 +2,7 @@ void main() {
     pagamentoPix pix = new pagamentoPix();
     // Ou FormaPagamento pix = new pagamentoPix()
     IO.println("\n------------------PAGAMENTO PIX--------------\n");
+
     pix.processarPagamento();
     pix.processarPagamento();
 
